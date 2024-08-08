@@ -53,6 +53,42 @@ Diseño de Activos: Crear y exportar iconos, ilustraciones y otros recursos grá
 Bibliotecas de Recursos: Crear y gestionar bibliotecas de componentes y activos que pueden ser compartidos entre diferentes proyectos y equipos para mantener la coherencia y eficiencia.
 Estos casos de uso demuestran la versatilidad de Figma en el proceso de diseño y prototipado, ayudando a los equipos a trabajar de manera más colaborativa y eficiente mientras crean productos digitales de alta calidad.
 
+Nombre del Miembro 3 Flores Veronica Elizabeth
+Rol:Investigación sobre recursos y tutoriales para aprender Figma.
+
+Hay muchos recursos y tutoriales disponibles para aprender Figma, desde tutoriales en video hasta cursos en línea y documentación oficial. Aquí te dejo una lista de recursos recomendados:
+
+1. Documentación Oficial de Figma
+Figma Help Center: La documentación oficial de Figma incluye guías y artículos sobre todas las funcionalidades de la herramienta, desde lo básico hasta técnicas avanzadas.
+2. Tutoriales en Video
+Figma YouTube Channel: El canal oficial de YouTube de Figma ofrece tutoriales, seminarios web y presentaciones de características.
+DesignCourse: Ofrece tutoriales detallados sobre Figma y diseño de UI/UX en general.
+Figma Academy: Un canal dedicado a tutoriales y cursos sobre cómo usar Figma de manera efectiva.
+3. Cursos en Línea
+Coursera: Ofrece cursos sobre diseño UX/UI que a menudo incluyen secciones sobre Figma.
+Udemy: Encontrarás una variedad de cursos sobre Figma, desde principiantes hasta avanzados.
+LinkedIn Learning: Tiene cursos sobre Figma y diseño de interfaces que cubren desde lo básico hasta técnicas más avanzadas.
+4. Plataformas de Aprendizaje de Diseño
+Skillshare: Ofrece clases específicas sobre Figma y diseño gráfico, con proyectos prácticos.
+Interaction Design Foundation: Proporciona cursos sobre UX/UI y herramientas como Figma, con un enfoque en el diseño centrado en el usuario.
+5. Blogs y Sitios Web de Diseño
+Smashing Magazine: Publica artículos y tutoriales sobre diseño y herramientas como Figma.
+UX Design.cc: Ofrece artículos y recursos sobre diseño UX/UI que a menudo incluyen información sobre cómo usar Figma.
+6. Comunidades y Foros
+Figma Community: La comunidad de Figma en la propia plataforma permite explorar y compartir archivos, así como obtener inspiración y recursos.
+Designer Hangout: Un grupo en línea donde los diseñadores comparten conocimientos y recursos sobre herramientas como Figma.
+7. Libros
+“Figma for Beginners”: Un libro que cubre los fundamentos de Figma para principiantes.
+“The UX Book”: Aunque no está centrado únicamente en Figma, proporciona una sólida base en UX/UI que se complementa bien con el uso de Figma.
+8. Práctica y Ejercicios
+Daily UI Challenges: Proporciona desafíos diarios para practicar habilidades de diseño, que puedes realizar en Figma.
+Frontend Mentor: Ofrece desafíos de diseño y desarrollo front-end que puedes abordar usando Figma.
+Estos recursos te ayudarán a adquirir y perfeccionar tus habilidades en Figma, independientemente de tu nivel de experiencia. 
+
+
+
+
+
 
 
 
