@@ -1,4 +1,5 @@
 Miembros del Equipo
+
 Nombre del Miembro 1 Flores Veronica Elizabeth
 
 Rol:Investigación sobre las funcionalidades principales de Figma.
